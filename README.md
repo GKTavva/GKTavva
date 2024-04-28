@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GKTavva
+- 👋 Hi, I’m Gokula Krishna Tavva
 - 👀 I’m interested in Aerodynamics and Thermal Engineering
 - 🌱 I’m currently learning Mechanical Engineering
 
