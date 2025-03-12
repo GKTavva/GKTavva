@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokula Krishna Tavva
-- 👀 I’m interested in Aerodynamics and Thermal Engineering
-- 🌱 I’m currently learning Mechanical Engineering
+- 👀 I’m interested in Hypersonics and Aerodynamics
+- 🌱 I’m currently pursuing Mechanical Engineering
 
 
 <!---
